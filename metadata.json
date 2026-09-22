@@ -1,0 +1,6 @@
+{
+  "name": "PDF Master",
+  "description": "All-in-one online PDF tools platform to merge, split, compress, convert, edit, and sign PDF documents quickly and securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
